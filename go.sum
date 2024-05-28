@@ -1,0 +1,14 @@
+// go.sum
+github.com/armon/go-metrics v0.3.8/go.mod h1:4O98XIr/9W0sxpJ8UaYkvjk10Iff7SnFrb4QAOwNTFc=
+github.com/boltdb/bolt v1.3.1/go.mod h1:clJnj/oiGkjum5o1McbSZDSLxVThjynRyGBgiAx27Ps=
+github.com/hashicorp/go-hclog v0.14.1/go.mod h1:whpDNt7SSdeAju8AWKIWsul05p54N/39EeqMAyrmvFQ=
+github.com/hashicorp/go-immutable-radix v1.3.0/go.mod h1:0y9vanUI8NX6FsYoO3zeMjhV/C5i9g4Q3DwcSNZ4P60=
+github.com/hashicorp/go-msgpack v0.5.5/go.mod h1:ahLV/dePpqEmjfWmKiqvPkv/twdG7iPBM1vqhUKIvfM=
+github.com/hashicorp/golang-lru v0.5.4/go.mod h1:iADmTwqILo4mZ8BN3D2Q6+9jd8WM5uGBxy+E8yxSoD4=
+github.com/hashicorp/raft v1.3.1 h1:YrvMTBH5wyp21lDgJIilCirlifKoxgEIZbNSit9bNzI=
+github.com/hashicorp/raft v1.3.1/go.mod h1:Oe5JDKkLX4W0cDZJLp1yv4Hd1a/rRlOmOjsZM0o5b0=
+github.com/hashicorp/raft-boltdb v0.0.0-20210422161416-485fa74b0b01 h1:PdvWF9hbRKDL/jHojUPsGvcsNUkqZ08F51cXnHumkWA=
+github.com/hashicorp/raft-boltdb v0.0.0-20210422161416-485fa74b0b01/go.mod h1:GhnSEkiH5PaUMeBMsyyFcSAwnacPHW0UCiwa3p2tTiI=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v2 v2.4.0 h1:D8xgwECY7CYvx+Y2n4sBz93Jn9JRvxdiyyo8CTfuKaY=
+gopkg.in/yaml.v2 v2.4.0/go.mod h1:RDklbk79AGWmwhnvt/jBztapEOGDOx6ZbXqjP6csGnQ=
