@@ -59,7 +59,7 @@ To get started with the distributed key-value store, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/distributed-kv-store.git
+   git clone https://github.com/0xa48rx394r83e9/distributed-kv-store.git
    ```
 
 2. Install the dependencies:
